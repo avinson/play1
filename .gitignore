@@ -41,4 +41,5 @@ modules/*
 !modules/grizzly
 !modules/secure
 !modules/testrunner
+!modules/testrunner-lendup
 
